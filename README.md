@@ -10,10 +10,4 @@ Features of this app include -
 
 
 
-![screenshot_2018-10-04-18-05-29](https://user-images.githubusercontent.com/29299547/46474340-700b1900-c804-11e8-9f60-1753db9b9d7f.png)
-
-![screenshot_2018-10-04-18-05-32](https://user-images.githubusercontent.com/29299547/46474341-70a3af80-c804-11e8-99ae-c47e30c71dfa.png)
-
-![screenshot_2018-10-04-18-05-58](https://user-images.githubusercontent.com/29299547/46474342-70a3af80-c804-11e8-97cc-5a036fbb4356.png)
-
-![screenshot_2018-10-04-18-06-13](https://user-images.githubusercontent.com/29299547/46474344-713c4600-c804-11e8-8470-c369c4e7713f.png)
+![screenshot_2018-10-04-18-05-29](https://user-images.githubusercontent.com/29299547/46474340-700b1900-c804-11e8-9f60-1753db9b9d7f.png) ![screenshot_2018-10-04-18-06-13](https://user-images.githubusercontent.com/29299547/46474344-713c4600-c804-11e8-8470-c369c4e7713f.png)
